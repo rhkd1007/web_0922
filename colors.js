@@ -52,3 +52,4 @@
                        Links.setColor('blue');
                    }
                }
+
